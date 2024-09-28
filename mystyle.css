@@ -145,7 +145,7 @@ video{
     color:white;
     cursor: pointer;
 }
-/*ลงบรรทัดนี้ไป เป็นของหน้าเว๊ป myfuture.html*/
+/*ลงบรรทัดนี้ไป เป็นของหน้าเว๊ป myjourney.html*/
 .headfuture h1{
     margin: 0px 0px 0px 0px;
     text-align: center;
@@ -192,4 +192,10 @@ th {
     margin: 0 auto; 
     margin-top: 20px;
     height: 70%;
+}
+.My2{
+    color: rgb(255, 0, 0);
+}
+.Journey{
+    color: rgb(251, 255, 6);
 }
