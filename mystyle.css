@@ -21,7 +21,10 @@ h1{
     text-align: center;
     flex-grow: 1;
     font-size: 60px;
-    margin-left: 150px;
+    margin-left: 50px;
+}
+p{
+    margin-bottom: 0px;
 }
 table{
     border:white 3px;
