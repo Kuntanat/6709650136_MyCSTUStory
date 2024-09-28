@@ -199,3 +199,18 @@ th {
 .Journey{
     color: rgb(251, 255, 6);
 }
+/*ล่างลงไปเป็นปุ่มlinkไปหน้าpagesต่างๆ*/
+.btlink{
+    position: absolute;
+    margin-left: 60px;
+}
+.btlink button{
+    height: 200px;
+    width: 200px;
+    margin-top: 30px;
+    font-size: 40px;
+    font-family: "Handjet";
+}
+.btlink a{
+    text-decoration: none;
+}
