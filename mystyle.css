@@ -145,4 +145,39 @@ video{
     color:white;
     cursor: pointer;
 }
-
+/*ลงบรรทัดนี้ไป เป็นของหน้าเว๊ป myfuture.html*/
+.headfuture h1{
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+    font-size: 60px;
+}
+.futuretable{
+    width: 75%;
+    border: 2px solid #000;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    display: block;
+    align-items: center;
+    margin: 20px auto 40px;
+    background-color: #f2f2f2;
+}
+th {
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 4px;
+}
+#fouryears{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0;
+}
+.myfuture{
+    height: 160%;
+}
+.My{
+    color: blue;
+}
+.Future{
+    color: rgb(255, 147, 6);
+}
