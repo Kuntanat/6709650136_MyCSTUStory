@@ -181,4 +181,15 @@ th {
 .Future{
     color: rgb(255, 147, 6);
 }
-
+/*ลงบรรทัดนี้ไป เป็นของหน้าเว๊ป myfuture.html*/
+#Mylife{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.fullstack{
+    display: block;
+    margin: 0 auto; 
+    margin-top: 20px;
+    height: 70%;
+}
